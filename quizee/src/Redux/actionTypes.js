@@ -1,0 +1,5 @@
+export const GET_QUIZ_REQUEST = "GET_QUIZ_REQUEST";
+export const GET_QUIZ_SUCCESS = "GET_QUIZ_SUCCESS";
+export const GET_QUIZ_FAILURE = "GET_QUIZ_FAILURE";
+
+export const ADD_USER = "ADD_USER";
